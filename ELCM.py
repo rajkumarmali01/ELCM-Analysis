@@ -95,5 +95,5 @@ def main():
         except Exception as e:
             st.error(f"❌ Error: {str(e)}")
 
-if __name__ == "__main__":
+if _name_ == "__main__":
     main()
